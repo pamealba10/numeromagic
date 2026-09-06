@@ -64,8 +64,8 @@
 
 ### CAPTURAS
 ![Pantalla Principal](/public/imagenes/img1.png)
-![Mensaje de Fallo](/adivina-el-numero/public/imagenes/img2.png)
-![Mensaje de Éxito](/adivina-el-numero/public/imagenes/img3.png)
+![Mensaje de Fallo](/public/imagenes/img2.png)
+![Mensaje de Éxito](/public/imagenes/img3.png)
 
 
 
